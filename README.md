@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, fellow earthlings</h1>
 <h3 align="center">Still a learner, CTF player, a curious soul who likes building, breaking, and learning stuff (mostly in that order)</h3>
 
@@ -46,11 +45,11 @@
   </a>
 </p>
 
-<!-- GitHub Stats in Dark Mode -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=np0s&show_icons=true&locale=en&theme=tokyonight" alt="np0s stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=np0s&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_bust=1" alt="np0s's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=np0s&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="np0s top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=np0s&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" alt="np0s's Top Languages" />
 </p>
