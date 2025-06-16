@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, fellow earthlings</h1>
 <h3 align="center">Still a learner, CTF player, a curious soul who likes building, breaking, and learning stuff (mostly in that order)</h3>
 
-- 🔭 I currently worked on **Loan based chatbot**
+- 🔭 I currently worked on **ResQtail (an animal resque app)**
 
 - 🌱 I’m currently learning **Django**
 
