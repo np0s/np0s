@@ -29,12 +29,4 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </span>
 
----
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=np0s&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_bust=1" alt="np0s's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=np0s&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" alt="np0s's Top Languages" />
-</p>
