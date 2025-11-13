@@ -8,7 +8,12 @@
 - 📫 How to reach me **prolly where we are right now**
 
 - ⚡ Fun fact **You never know until you try**
-
+---
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=np0s&theme=dracula&show_icons=true&hide_border=true&count_private=true" />  
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=np0s&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
